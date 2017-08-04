@@ -1,0 +1,1 @@
+This is my first projet using git. Just a list of ideas for camping.
