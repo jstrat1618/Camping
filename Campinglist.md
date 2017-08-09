@@ -1,13 +1,13 @@
-#Sleeping 
+# Sleeping 
 Tents
 Sleeping Bags
 Pillows
 
-#Eating
+# Eating
 Pans
 Firewood
 
-#Misc
+# Misc
 Raincoats
 Flashlights
 
