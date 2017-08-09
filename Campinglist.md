@@ -1,13 +1,13 @@
 # Sleeping 
-Tents
-Sleeping Bags
-Pillows
+*Tents
+*Sleeping Bags
+*Pillows
 
 # Eating
-Pans
-Firewood
+*Pans
+*Firewood
 
 # Misc
-Raincoats
-Flashlights
+*Raincoats
+*Flashlights
 
